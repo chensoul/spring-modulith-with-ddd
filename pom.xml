@@ -8,6 +8,7 @@
         <version>3.3.0</version>
         <relativePath/> <!-- lookup parent from repository -->
     </parent>
+
     <groupId>com.abhinav</groupId>
     <artifactId>spring-modulith-with-ddd</artifactId>
     <version>0.0.1-SNAPSHOT</version>
@@ -54,6 +55,14 @@
         <dependency>
             <groupId>org.jmolecules</groupId>
             <artifactId>jmolecules-layered-architecture</artifactId>
+        </dependency>
+        <dependency>
+            <groupId>org.jmolecules</groupId>
+            <artifactId>jmolecules-hexagonal-architecture</artifactId>
+        </dependency>
+        <dependency>
+            <groupId>org.jmolecules</groupId>
+            <artifactId>jmolecules-onion-architecture</artifactId>
         </dependency>
         <dependency>
             <groupId>org.jmolecules</groupId>
